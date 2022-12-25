@@ -41,7 +41,7 @@ class _StoryPageState extends State<StoryPage> {
                   child: Text(
                     storyBrain.getStory(),
                     style: TextStyle(
-                      fontSize: 25.0,
+                      fontSize: 24.0,
                     ),
                   ),
                 ),
